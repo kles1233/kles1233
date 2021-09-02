@@ -1,6 +1,5 @@
 ### Всем привет, Я Денис! - aka [kles1233][website]
 
-
 ## Cтудент в МИРЭА - РОССИЙСКИЙ  ТЕХНОЛОГИЧЕСКИЙ УНИВЕРСИТЕТ (3 курс)
 - 🏳🧰🔧 Открыт для стажировки(Очень хочу получить свой первый опыт в IT)  
 - 🔥Я изучаю python (хочу развиваться в {Веб-Разработке и ML}) 
@@ -19,10 +18,9 @@
 
 ## Github States
 
-<img align="left"  alt="kles1233's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=kles1233&show_icons=true&hide_border=true" />
+<img align="left"  alt="kles1233's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=kles1233&show_icons=true&hide_border=true&theme=dracula" />
 
-<br>
-</br>
+
 
 ## Языки и инструменты
 <img align="left" alt="Python" src="https://img.icons8.com/color/48/000000/python--v2.png">
