@@ -21,11 +21,11 @@
 <img align="left" alt="kles1233" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code">
 <img align="left" alt="PyCharm" src="https://img.icons8.com/color/48/000000/pycharm.png">
 <img align="left" alt="Jupyter Notebook" src="photo\jupyter_app_icon_161280.png">
-<img align="left" alt="Pandas" src="photo\pandas.svg">
+<!<img align="left" alt="Pandas" src="photo\pandas.svg">
 <img align="left" alt="NumPy" src="photo\numpy.svg">
 <img align="left" alt="Django" src="photo\django.svg">
 <img align="left" alt="Flask" src="photo\flask.svg">
-
+>
 <br />
 <br />
 
