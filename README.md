@@ -21,7 +21,8 @@
 
 <img align="left"  alt="kles1233's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=kles1233&show_icons=true&hide_border=true" />
 
-
+<br>
+</br>
 
 ## Языки и инструменты
 <img align="left" alt="Python" src="https://img.icons8.com/color/48/000000/python--v2.png">
