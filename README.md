@@ -11,7 +11,8 @@
 [<img align="left" alt="kles1233" src="https://img.icons8.com/doodle/48/000000/vk-messenger.png" />][vk]
 
 <br></br>
-## Языки
+
+## Wakatime Stats и Github States
 
 
 <img align="left"  alt="kles1233's Github Stats" src ="https://github-readme-stats.vercel.app/api/wakatime?kles1233=willianrod" />
@@ -20,8 +21,6 @@
 <br />
 <br>
 </br>
-
-<br></br>
 
 ## Github States
 
