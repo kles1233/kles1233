@@ -10,7 +10,7 @@
 [<img align="left" alt="kles1233" src="https://img.icons8.com/bubbles/50/000000/sent.png"/>][telegram]
 [<img align="left" alt="kles1233" src="https://img.icons8.com/doodle/48/000000/vk-messenger.png" />][vk]
 
-
+<br></br>
 ## Языки
 
 
