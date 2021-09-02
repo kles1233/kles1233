@@ -20,10 +20,10 @@
 
 <img align="left" alt="kles1233" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code">
 <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm">
-<img src="facebook.svg" alt="facebook">
-<img src="facebook.svg" alt="facebook">
-<img src="facebook.svg" alt="facebook">
-<img src="facebook.svg" alt="facebook">
+<img align="left" alt="kles1233" src="C:\Users\Kluch\Downloads\jupyter_app_icon_161280.png" alt="Jupyter Notebook">
+<img align="left" alt="kles1233" src="facebook.svg" alt="facebook">
+<img align="left" alt="kles1233" src="facebook.svg" alt="facebook">
+<img align="left" alt="kles1233" src="facebook.svg" alt="facebook">
 
 
 <br />
