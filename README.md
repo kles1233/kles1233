@@ -9,13 +9,18 @@
 ### Связаться со мной вы можете через:
 
 [<img align="left" alt="kles1233" src="https://img.icons8.com/bubbles/50/000000/sent.png"/>][telegram]
-[<img align="left" alt="kles123" src="https://img.icons8.com/doodle/48/000000/vk-messenger.png" />][vk]
+[<img align="left" alt="kles1233" src="https://img.icons8.com/doodle/48/000000/vk-messenger.png" />][vk]
 
 
 
 <br />
 <br>
 </br>
+
+## Github States
+
+<img align="left"  alt="kles1233's Github Stats" src =https://github-readme-stats.vercel.app/api?username=kles1233&show_icons=true" />
+
 
 
 ## Языки и инструменты
