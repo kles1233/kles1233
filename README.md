@@ -16,9 +16,9 @@
 
 
 
-### Языки и инструменты
+## Языки и инструменты
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code">
+<img align="left" alt="kles1233" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code">
 <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm">
 <img src="facebook.svg" alt="facebook">
 <img src="facebook.svg" alt="facebook">
