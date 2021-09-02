@@ -11,15 +11,10 @@
 [<img align="left" alt="kles1233" src="https://img.icons8.com/doodle/48/000000/vk-messenger.png" />][vk]
 
 
-##             Языки и инструменты
-<img align="right" alt="Python" src="https://img.icons8.com/color/48/000000/python--v2.png">
-<img align="right" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
-<img align="right" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png">
-<img align="right" alt="Github" src="https://img.icons8.com/color/48/000000/github--v3.png">
-<img align="right" alt="Git" src="https://img.icons8.com/color/48/000000/git.png">
-<img align="right" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" >
-<img align="right" alt="PyCharm" src="https://img.icons8.com/color/48/000000/pycharm.png">
+## Языки
 
+
+<img align="left"  alt="kles1233's Github Stats" src ="https://github-readme-stats.vercel.app/api/wakatime?kles1233=willianrod" />
 
 
 <br />
