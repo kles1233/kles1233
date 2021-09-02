@@ -11,7 +11,7 @@
 [<img align="left" alt="kles1233" src="https://img.icons8.com/doodle/48/000000/vk-messenger.png" />][vk]
 
 
-## Языки и инструменты
+##             Языки и инструменты
 <img align="right" alt="Python" src="https://img.icons8.com/color/48/000000/python--v2.png">
 <img align="right" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
 <img align="right" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png">
